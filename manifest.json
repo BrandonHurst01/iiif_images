@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2dc48130-149c-4561-8fbd-e17528d266d0",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://a792c66b-7e76-4406-9ee9-443c94323368",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://b7976bde-6751-41e5-8787-a047a7a22d8e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3648,
+					"width": 2248,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3277eb48-ba6a-4461-b507-e363ac8f14a3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://brandonhurst01.github.io/iiif_images/NineteenthC_35/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://brandonhurst01.github.io/iiif_images/NineteenthC_35",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3648,
+								"width": 2248
+							},
+							"on": "http://b7976bde-6751-41e5-8787-a047a7a22d8e"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
