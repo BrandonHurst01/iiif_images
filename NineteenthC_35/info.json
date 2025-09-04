@@ -17,7 +17,8 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2248,
-  "@id" : "http://localhost:8887/iiif/NineteenthC_35",
+  "@id" : "https://brandonhurst01.github.io/iiif_images/NineteenthC_35",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3648
+
 }
