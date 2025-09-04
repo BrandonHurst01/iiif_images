@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://brandonhurst01.github.io/iiif/NineteenthC_35",
+  "@id": "https://brandonhurst01.github.io/iiif_images/NineteenthC_35",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
