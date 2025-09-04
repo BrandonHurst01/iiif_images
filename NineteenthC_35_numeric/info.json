@@ -1,0 +1,21 @@
+﻿{
+    "@context":  "http://iiif.io/api/image/2/context.json",
+    "@id":  "https://brandonhurst01.github.io/iiif_images/NineteenthC_35_numeric",
+    "protocol":  "http://iiif.io/api/image",
+    "width":  2248,
+    "height":  3648,
+    "tiles":  [
+                  {
+                      "scaleFactors":  [
+                                           1,
+                                           2,
+                                           4,
+                                           8
+                                       ],
+                      "width":  512
+                  }
+              ],
+    "profile":  [
+                    "http://iiif.io/api/image/2/level2.json"
+                ]
+}
