@@ -1,29 +1,16 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://brandonhurst01.github.io/iiif_images/NineteenthC_35",
-  "profile": [
-    "http://iiif.io/api/image/2/level0.json",
-    {
-      "formats": [
-        "jpg"
-      ],
-      "qualities": [
-        "default"
-      ]
-    }
-  ],
   "protocol": "http://iiif.io/api/image",
+  "width": 2248,
+  "height": 3648,
   "tiles": [
     {
-      "scaleFactors": [
-        1,
-        2,
-        4,
-        8
-      ],
-      "width": 512
+      "width": 512,
+      "scaleFactors": [1, 2, 4, 8]
     }
   ],
-  "width": 2248,
-  "height": 3648
+  "profile": [
+    "http://iiif.io/api/image/2/level2.json"
+  ]
 }
